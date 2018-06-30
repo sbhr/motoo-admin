@@ -1,4 +1,4 @@
-# sample
+# Motoo Admin
 
 > Motoo bot
 
